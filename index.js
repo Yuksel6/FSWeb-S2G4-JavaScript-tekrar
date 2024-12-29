@@ -54,6 +54,9 @@ function CemberinCevresi(yaricap) {
   return CemberinCevresi = 2 * 3.14 * yaricap;
 }
 
+function CemberinCevresi(5) {
+  return CemberinCevresi = 2 * 3.14 * yaricap;
+}
 /* (Oto test yok) Yukarıdaki CemberinCevresi fonksiyonunu yarıçap = 5 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
 
 /* 	GÖREV 2:  
